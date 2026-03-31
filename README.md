@@ -1,10 +1,10 @@
 ## AWS App Runner Roadmap
 
-> **Note:** AWS App Runner has entered maintenance mode. For more details, see the official announcement: [https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
+> **Notice:** AWS App Runner is being retired. The service is no longer available to new customers, and existing customers will be able to use it only for a limited time. For full details, including timelines and impact, see the official documentation: [https://docs.aws.amazon.com/apprunner/latest/dg/apprunner-availability-change.html](https://docs.aws.amazon.com/apprunner/latest/dg/apprunner-availability-change.html)
 
-This repository previously served as the public roadmap for AWS App Runner. While active feature development has been paused, this repository remains available for historical context and reference.
+This repository previously served as the public roadmap for AWS App Runner. As the service is being retired, this repository is no longer actively maintained and is preserved for historical reference.
 
-We appreciate the feedback and engagement from customers that helped shape the service. For guidance on alternative AWS services or migration planning, please reach out to your AWS account team or use this [form](https://aws.amazon.com/contact-us/sales-support/).
+If you are currently using App Runner, you should review the announced timelines and plan migration to alternative AWS services. For guidance specific to your workload, contact your AWS account team or use this [form](https://aws.amazon.com/contact-us/sales-support/).
 
 ## License Summary
 
