@@ -1,10 +1,11 @@
 ## AWS App Runner Roadmap
 
-This is a public roadmap for AWS App Runner. We learnt from customers that knowing about our upcoming features and priorities helps them plan. This repository contains information about what we are working on and allows customers to give direct feedback.
+> **Note:** AWS App Runner has entered maintenance mode. For more details, see the official announcement: [https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
 
-Please do not hesitate to reach out to your AWS account team (or use this [form](https://aws.amazon.com/contact-us/sales-support/)) to have an individual discussion based on your use case. 
+This repository previously served as the public roadmap for AWS App Runner. While active feature development has been paused, this repository remains available for historical context and reference.
+
+We appreciate the feedback and engagement from customers that helped shape the service. For guidance on alternative AWS services or migration planning, please reach out to your AWS account team or use this [form](https://aws.amazon.com/contact-us/sales-support/).
 
 ## License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
-
